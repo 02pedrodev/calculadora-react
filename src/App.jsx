@@ -25,7 +25,7 @@ function App() {
            <button><p>=</p></button>  
            <button><p>-</p></button>  
            <button><p>+</p></button>  
-           <button><p>x</p></button>  
+           <button><p>X</p></button>  
            <button><p>÷</p></button>  
            
             
