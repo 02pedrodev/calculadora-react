@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.calc-project{
+    background-color: aqua;
+    padding: 1rem;
+    margin: 2rem;
+    display: grid;
+    gap: 3rem;
+    align-items: center;
+    justify-content: center;
+}
